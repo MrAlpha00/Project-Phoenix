@@ -1,5 +1,5 @@
 # 🌍 Delhi Climate Sentinel  
-### 🏆 * — Mr Alpha *
+### 🏆 * — Mr Alpha 
 
 ---
 
